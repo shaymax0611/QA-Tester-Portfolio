@@ -16,7 +16,7 @@ QA Tester Junior con experiencia en testing manual y automatizado en proyectos d
 Trabajo con BDD, transformando casos de prueba desde lenguaje natural a escenarios Gherkin, identificación de locators (HTML) y ejecución de pruebas automatizadas con Selenium y Java, incluyendo pruebas unitarias y ejecución de proyectos de automatización de forma secuencial. Enfocada en la calidad del software, la detección temprana de defectos y la mejora continua dentro de equipos ágiles.
 
 ## CV 📝
-Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1r5Ky3ux7JO_fXFOK1RDgw6Nf5xo7BzTX/view?usp=drive_link)
+Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1my2_l9DjLcKjXOtrJlXMewpue0TVbZA7/view?usp=sharing)
 
 ## Herramientas 🔧
 * Jira – gestión de incidencias, seguimiento de bugs y trabajo en entornos ágiles
