@@ -6,7 +6,6 @@
 * [Habilidades](#habilidades-)
 * [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo-)
 * [Experiencia Laboral](#experiencia-laboral)
-* [Cursos](#cursos-)
 * [Contáctame](#contáctame-)
 * [QA Tester Porfolio (English)](#qa-tester-portfolio-english)
 
@@ -27,11 +26,10 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1m
 * Postman – pruebas de API
 * Git / GitHub – control de versiones y colaboración en proyectos
 * PostgreSQL – consultas y validación de datos en bases de datos
-* XAMPP – entorno de práctica para bases de datos y SQL
 * Visual Studio Code – edición de código y revisión de HTML/CSS
-* Rapise – automatización de pruebas
 * Slack, Microsoft Teams – comunicación y colaboración en equipos de trabajo
 * Google Drive – gestión y almacenamiento de documentación
+* C++ - Observación de código y detección de errores.
 
 ## Habilidades 💻
 ### Testing de Software
@@ -41,16 +39,6 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1m
 * Creación de escenarios de prueba y checklists
 * Identificación, documentación y seguimiento de defectos (bug reporting)
 * Conversión de casos de prueba a formato Gherkin (BDD)
-
-### Automatización de pruebas
-* Automatización de pruebas web con Selenium y Java
-* Identificación de locators en HTML para scripts de automatización
-* Ejecución de pruebas automatizadas y validación de resultados
-
-### API Testing
-* Pruebas de APIs utilizando Postman
-* Comprensión de arquitecturas REST y SOAP
-* Creación y validación de requests y responses
 
 ### Bases de Datos
 * Escritura de consultas SQL para validación de datos
@@ -68,32 +56,46 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1m
   - [Casos de Prueba](https://docs.google.com/spreadsheets/d/17E6znNLdfrYNLbZD-lcSh4fOImIqMVKN/edit?usp=sharing&ouid=114138767990135939056&rtpof=true&sd=true)
   - [#1 - Reporte de Errores](https://docs.google.com/spreadsheets/d/1a1Ui5wjRvvFBwqemMU-F4plA011zELWO/edit?usp=sharing&ouid=114138767990135939056&rtpof=true&sd=true)
 * [Ikiwi - Calculadora para préstamos](https://ikiwi.net.ar/prestamos/calculadora-cft/)
-  - [Caso de Prueba](https://docs.google.com/spreadsheets/d/1rgX2bxusrgEYDVlabJgEToYoTHddF7plqar6tu8gxug/edit?usp=drive_link)
-  - [#1 - Reporte de Errores](https://docs.google.com/spreadsheets/d/1Hwz5mtOjvpxqqXXPRr6paL6YfNN1dYwT2Xy2LNejEKc/edit?usp=drive_link)
-  - [#2 - Reporte de Errores](https://docs.google.com/spreadsheets/d/1Lc1EWspS30FcaisQCTvc52xio9UQq6v_m5-9urgYQoc/edit?usp=drive_link)
+  - [Caso de Prueba](https://docs.google.com/spreadsheets/d/1mwQ86099c-1FmWYQPwI2V6gRvz0Acohx/edit?usp=sharing&ouid=114138767990135939056&rtpof=true&sd=true)
+  - [#1 - Reporte de Errores](https://docs.google.com/spreadsheets/d/1qX8CVozsj1bzXnzxY3DveKI79VCrIeKL/edit?usp=sharing&ouid=114138767990135939056&rtpof=true&sd=true)
+  - [#2 - Reporte de Errores](https://docs.google.com/spreadsheets/d/1oZMlvLWoT3u1B4dEG9PLK6HsJWqqxITX/edit?usp=sharing&ouid=114138767990135939056&rtpof=true&sd=true)
 
 ### Consultas en PostgreSQL
-* [SQL](https://docs.google.com/document/d/1oS9i0QEwOG0rfQScSPTxb5-Qv2cJfLX9QTXc7C3nSHc/edit?usp=drive_link)
+* [SQL](https://docs.google.com/document/d/1ybeVP04uVdqOciUd4bM2WUzKh3XkYrOP/edit?usp=sharing&ouid=114138767990135939056&rtpof=true&sd=true)
 
 ### API Testing (Postman)
-* [API Testing](https://docs.google.com/document/d/18hw9iYi5XPgYrfGg_PMKjgbnDGoccn3QTRSoIBbQCU8/edit?usp=drive_link)
+* [API Testing](https://docs.google.com/document/d/1T2URvQFfhGiRhKDzpHRd-4jV_qfEI8LR/edit?usp=sharing&ouid=114138767990135939056&rtpof=true&sd=true)
 
 ## Experiencia Laboral
-QA Tester Junior (Manual & Automation) – Híbrido
-(jun. 2025 - actualidad) 
+Freelance | Proyecto: Apliación Go Viajes | (Octubre 2025- Actualidad) 
 
-NTT DATA | Proyecto: Actualización SADE
+QA Tester (Manual&Automation) – Híbrido 
 
-QA Tester Junior con experiencia en testing manual y automatizado, participando en el aseguramiento de calidad del sistema SADE.
+* Aná́lisis de requerimientos y diseño de casos de prueba. 
+* Ejecució́n de pruebas manuales en Jira y testing exploratorio. 
+* Reporte y seguimiento de bugs en Jira. 
+* Conversió́n de casos de prueba de lenguaje natural a Gherkin (BDD). 
+* Identificació́n de locators (HTML) y ejecució́n de pruebas automatizadas con Selenium y Java. Ejecució́n de pruebas unitarias y proyectos de automatizació́n secuenciales. 
+* Herramientas: Jira, QMetry, Selenium, Java, Gherkin.
 
-* Análisis de requerimientos y diseño de casos de prueba.
-* Ejecución de pruebas manuales en Jira (QMetry) y testing exploratorio.
-* Reporte y seguimiento de bugs en Jira.
-* Conversión de casos de prueba de lenguaje natural a Gherkin (BDD).
-* Identificación de locators (HTML) y ejecución de pruebas automatizadas con Selenium y Java.
-* Ejecución de pruebas unitarias y proyectos de automatización secuenciales.
-* Herramientas: Jira, QMetry, Selenium, Java, Gherkin
+Acciona IT - Proyecto IBM/Galicia | (Febrero 2024 – Agosto 2025) 
 
+Tester QA
+
+* Ejecución de pruebas manuales, unitarias y funcionales/no funcionales.  Documentación y creación de casos de prueba en ALM.
+* Gestión de incidentes y creación de tickets en ServiceNow.
+* Validación de datos a través de consultas SQL. 
+* Pruebas de integración mediante Postman
+
+LOGYTSUD | (Febrero 2020 – Noviembre 2023) 
+
+Data Entry - Tester QA
+
+* Análisis de usabilidad de interfaz y funcionamiento web en dispositivos Mobile y Desktop. Elaboración de informes y reportes en Jira y Trello para el seguimiento de casos. 
+* Diseño de casos de prueba y ejecución de Testing ETL mediante Qlikview.
+* Seguimiento de bugs, ejecución de Regression Testing y testing de backend. 
+* Consultas de bases de datos con SQL.
+* Metodologia de trabajo Scrum
 
 ## Contáctame 📩
 * E-Mail: shaymax06@gmail.com
