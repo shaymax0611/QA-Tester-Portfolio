@@ -7,7 +7,6 @@
 * [Ejemplos de mi trabajo](#ejemplos-de-mi-trabajo-)
 * [Experiencia Laboral](#experiencia-laboral)
 * [Contáctame](#contáctame-)
-* [QA Tester Porfolio (English)](#qa-tester-portfolio-english)
 
 ## Perfil 👋
 QA Tester Junior con experiencia en testing manual y automatizado en proyectos de actualización de sistemas. Realizo análisis de requerimientos, diseño, creación y ejecución de casos de prueba, testing exploratorio y gestión de bugs utilizando Jira con QMetry.
@@ -67,7 +66,7 @@ Descagar mi CV en PDF [desde mi Google Drive](https://drive.google.com/file/d/1m
 * [API Testing](https://docs.google.com/document/d/1T2URvQFfhGiRhKDzpHRd-4jV_qfEI8LR/edit?usp=sharing&ouid=114138767990135939056&rtpof=true&sd=true)
 
 ## Experiencia Laboral
-##Freelance | Proyecto: Apliación Go Viajes | (Octubre 2025- Actualidad) 
+• Freelance | Proyecto: Apliación Go Viajes | (Octubre 2025- Actualidad) 
 
 QA Tester (Manual&Automation) – Híbrido 
 
@@ -78,7 +77,7 @@ QA Tester (Manual&Automation) – Híbrido
 * Identificació́n de locators (HTML) y ejecució́n de pruebas automatizadas con Selenium y Java. Ejecució́n de pruebas unitarias y proyectos de automatizació́n secuenciales. 
 * Herramientas: Jira, QMetry, Selenium, Java, Gherkin.
 
-##Acciona IT - Proyecto IBM/Galicia | (Febrero 2024 – Agosto 2025) 
+•Acciona IT - Proyecto IBM/Galicia | (Febrero 2024 – Agosto 2025) 
 
 Tester QA
 
@@ -86,8 +85,8 @@ Tester QA
 * Gestión de incidentes y creación de tickets en ServiceNow.
 * Validación de datos a través de consultas SQL. 
 * Pruebas de integración mediante Postman
-
-##LOGYTSUD | (Febrero 2020 – Noviembre 2023) 
+  
+• LOGYTSUD | (Febrero 2020 – Noviembre 2023) 
 
 Data Entry - Tester QA
 
